@@ -1,0 +1,20 @@
+header {
+	width: 100vw;
+	height: 80vh;
+	background-image: url(./assets/header.svg);
+	background-position: 65% 50%;
+	background-repeat: no-repeat;
+	background-size: 80%;
+}
+
+.services {
+	background-image: url(./assets/bg\ element.svg);
+	background-position: 10% 50%;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: fit-content;
+}
+
+.how-it-works {
+	list-style-type: "✅";
+}
